@@ -1,3 +1,3 @@
 # Frans furniture shop
 
-Built wwith PHP
+Built with PHP
